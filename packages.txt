@@ -1,0 +1,11 @@
+chrome|Google LLC|Быстрый и безопасный браузер|https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb|browser
+vs-code|Microsoft Corporation|Редактор кода с богатыми возможностями|https://code.visualstudio.com/sha/download?build=stable&os=linux-deb-x64|development
+discord|Discord Inc.|Приложение для голосового и текстового общения|https://discord.com/api/download?platform=linux&format=deb|communication
+teamviewer|TeamViewer Germany GmbH|Удаленный доступ к компьютерам|https://download.teamviewer.com/download/linux/teamviewer_amd64.deb|network
+skype|Microsoft Corporation|Бесплатные звонки и сообщения|https://repo.skype.com/latest/skypeforlinux-64.deb|communication
+slack|Slack Technologies|Платформа для командной работы|https://downloads.slack-edge.com/desktop-releases/linux/x64/slack-desktop-4.29.149-amd64.deb|communication
+pegasus-fe|Pegasus developers|Ultimate Game launcher|https://github.com/mmatyas/pegasus-frontend/releases/download/continuous/pegasus-frontend_0.16.91_amd64.deb
+opera-stable|Opera Nordway AS|Opera browser|https://download5.operacdn.com/ftp/pub/opera/desktop/122.0.5643.92/linux/opera-stable_122.0.5643.92_amd64.deb
+docker-desktop|Docker Ink|Docker container manager|https://desktop.docker.com/linux/main/amd64/docker-desktop-amd64.deb?utm_source=docker&utm_medium=webreferral&utm_campaign=docs-driven-download-linux-amd64&_gl=1*1p3kcaz*_gcl_au*MTMyMDI5OTE5MC4xNzU5NDIwODgx*_ga*MjI2MjI5NzQ3LjE3NTk0MjA3NzQ.*_ga_XJWPQMJYHQ*czE3NTk2MDAxMTQkbzIkZzEkdDE3NTk2MDAxMTgkajU2JGwwJGgw
+max|Max ❌|Govno messenger|https://download.max.ru/electron/MAX.deb?mt_click_id=mt-dr9tt3-1759602768-3230152463
+dropbox|Dropbox|Dropbox is a cloud storage service that allows you to store, sync, and share files and folders|https://linux.dropbox.com/packages/ubuntu/dropbox_2025.05.20_amd64.deb
