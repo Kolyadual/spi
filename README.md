@@ -9,7 +9,7 @@ SPI это прекрасный пакетный менеджер для Runget/
 
 Чтобы установить SPI на свой ПК выполните следующие команды:
 
-    wget https://raw.githubusercontent.com/Kolyadual/spi/refs/heads/main/spi_v1.0.deb | sudo dpkg --install spi_v1.0.deb
+    wget https://raw.githubusercontent.com/Kolyadual/spi/refs/heads/main/spi_v1.0.deb && sudo dpkg --install spi_v1.0.deb
 
 А затем чтобы инициализировать:
 
